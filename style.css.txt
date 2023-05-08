@@ -5,7 +5,7 @@
    .header{
    min-height: 100vh;
    width: 100%;
-   background-image: linear-gradient(rgba(4,9,30,0.7);rgba(4,9,30,0,7)),url(https://www.freecreatives.com/fine-art/printable-abstract-art-paintings);
+   background-image: linear-gradient(rgba(4,9,30,0.7);rgba(4,9,30,0,7)),url(https://wallpapercave.com/w/PwQzGbX);
 
    background-postion: center;
    background-size: cover,
